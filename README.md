@@ -8,7 +8,7 @@ love what bappa do & do what bappa love......
 #REACT JS
 basic react js  code with some mini project
 ---------------------------------------------------
-hi, this is bappa saha. Here i have done some cool project based code  using "C++"
+
 #Contact:
 
 Github link :  https://github.com/bappabappa
