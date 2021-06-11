@@ -8,6 +8,10 @@ love what bappa do & do what bappa love......
 #REACT JS
 basic react js  code with some mini project
 ---------------------------------------------------
+#Creating React app for one time type below this command:
+npx create-react-app my-app
+cd my-app
+npm start
 
 #Contact:
 
